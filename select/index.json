@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋愛凡人は踊らない (retake)",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-02-07T14:01:56.014341Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛凡人は踊らない",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛凡人は踊らない_This_is_LAST.txt"
+    }
+  ]
+}
